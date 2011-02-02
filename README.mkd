@@ -1,0 +1,3 @@
+Learn Scala The Hard Way
+========================
+This project is book for Scala programming language refere to the "Learn Python The Hard Way" wrote by Zed A. Shaw. The goal is write book according directions descibed in article <a href="http://sheddingbikes.com/posts/1288945508.html">How To Write A LxTHW</a>. The end result is book understandable for non-technical person which want to learn Scala as their first programming language ever.
