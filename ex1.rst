@@ -1,3 +1,6 @@
+Exercise 1: Get familiar with Scala command line
+************************************************
+
 Welcome to Scala version 2.7.7final (OpenJDK 64-Bit Server VM, Java 1.6.0_20).
 Type in expressions to have them evaluated.
 Type :help for more information.
